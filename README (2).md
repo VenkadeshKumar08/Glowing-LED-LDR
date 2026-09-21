@@ -12,7 +12,7 @@ To design and build an automatic light-sensing circuit using an LDR sensor modul
 
 ### COMPONENTS&nbsp;
 
-!(Components Required.jpg)
+![COMPONENTS REQUIRED](Components Required.jpg)
 
 &nbsp;
 
@@ -46,7 +46,7 @@ APPLICATION
 
 &nbsp;
 
-!(Stimulation of Circuit Diagram 2.jpg)
+![STIMULATION OF CIRCUIT DIAGRAM 2](Stimulation of Circuit Diagram 2.jpg)
 
 &nbsp;
 
@@ -84,7 +84,7 @@ APPLICATION
 
 &nbsp;
 
-!(Schematic diagram 2.jpg)
+![SCHEMATIC DIAGRAM 2](Schematic diagram 2.jpg)
 
 &nbsp;
 
@@ -116,7 +116,7 @@ RESULT
 
 &nbsp;
 
-!(Result 2.jpg)
+![RESULT 2](Result 2.jpg)
 
 The automatic light-sensing circuit was successfully developed and tested using an LDR sensor module and a BJT, demonstrating a fully operational hardware switch that automatically turns the LED ON in darkness and OFF in bright light without any microcontroller programming.
 
